@@ -12,5 +12,5 @@ The Hillsdale Community Foundation exists to strengthen community among those wh
 - Shane Hall (Publisher)
 - Jane Harold
 
-##History
+## History
 Founded in 2006, the Hillsdale Community Foundation has grown from a small alliance of civic groups into a vibrant community organization serving the Hillsdale neighborhood of Portland, Oregon.
